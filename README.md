@@ -1,16 +1,37 @@
-# kuantan_tour_app
+# 🇸🇬 Singapore Tour App
 
-A new Flutter project.
+A beautiful Flutter application showcasing popular tourist attractions around Singapore.
 
-## Getting Started
+![Flutter](https://img.shields.io/badge/Flutter-Framework-blue?logo=flutter)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🗺️ Interactive map with key tourist locations
+- 📸 Image galleries for each location
+- 📝 Descriptions and visitor tips
+- 🔍 Search functionality
+- 💖 Favorites feature
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Getting Started
+
+To run this project on your local machine:
+
+### Prerequisites
+
+- Flutter SDK: [Install Flutter](https://docs.flutter.dev/get-started/install)
+- Android Studio or VS Code with Flutter extension
+- Emulator or physical device
+
+### Installation Steps
+
+```bash
+git clone https://github.com/your-username/Singapore_Tour_App.git
+cd Singapore_Tour_App
+flutter pub get
+flutter run
